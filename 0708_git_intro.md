@@ -11,7 +11,13 @@
    1. `$git  config --global user.name "name"`
    2. `$git  config --global user.email "email@email"`
 
-3. 
+3. 리포트 상태보기 `$git status`
+
+4. ??? `$git add`
+
+5. ??? `$git commit`
+
+6. 로그 보기 `$git log`
 
    
 
