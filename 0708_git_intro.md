@@ -13,9 +13,9 @@
 
 3. 리포트 상태보기 `$git status`
 
-4. ??? `$git add`
+4. stage에 올리기 `$git add`
 
-5. ??? `$git commit`
+5. snapshot 찍기 `$git commit`
 
 6. 로그 보기 `$git log`
 
