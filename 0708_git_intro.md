@@ -29,8 +29,9 @@
    ### 집 컴퓨터 세팅
 
    1. git 다운로드 및 설치
-   2. `$ git clone <url>`
-   3. 
+   2. `$ git config --global ....`
+   3. `$ git clone <url>`
+   4. 
 
 ## github
 
