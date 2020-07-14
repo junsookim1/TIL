@@ -191,9 +191,11 @@ def computeTFITF(DTM):
 computeTFITF(DTM)
 
 import pandas as pd
-
+##
 sorted_vocab = sorted((value, key) for key, value in word2id.items())
 vocab = [v[1] for v in sorted_vocab]
 tfidf= computeTFIDF(DTM)
 pd.DataFrame(tfidf, columns=vocab)
+
+
 
